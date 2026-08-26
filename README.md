@@ -26,7 +26,6 @@ The database contains five related tables:
 - `Financials`
 - `Shipping`
 
-![Database Schema](images/database_schema.png)
 
 ### Relationships
 
