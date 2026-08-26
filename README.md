@@ -120,6 +120,7 @@ The project compares:
 - Profit margin
 - Average shipping time by order priority
 
+![Year-over-Year Revenue Analysis](images/Sales Channel Analysis.png)
 ### Advanced SQL
 
 Advanced techniques include:
