@@ -90,7 +90,7 @@ Monthly performance is analyzed using:
 
 The analysis uses a Common Table Expression (CTE) and the `LAG()` window function to compare annual revenue with the previous year and calculate revenue growth.
 
-![Sales Channel Analysis](images/sales-channel-analysis.png)
+![Year-over-Year Revenue Analysis](images/yearly-revenue-analysis.png)
 ### Product Analysis
 
 Product economics are evaluated using:
@@ -120,7 +120,7 @@ The project compares:
 - Profit margin
 - Average shipping time by order priority
 
-![Year-over-Year Revenue Analysis](images/Sales Channel Analysis.png)
+![Sales Channel Analysis](images/sales-channel-analysis.png)
 ### Advanced SQL
 
 Advanced techniques include:
