@@ -215,10 +215,10 @@ Validate the data
 Create foreign-key relationships
 Execute the analytical queries
 ```
-Author
-Rachel Konadu Gyamfi
+## Author
 
-Data Analyst with an interest in Business Intelligence, Data Visualization, SQL, Python, and Power BI.
+**Rachel Konadu Gyamfi**
 
-LinkedIn: linkedin.com/in/rachel-konadu-gyamfi
-GitHub: github.com/cyber-rachel
+Data Analyst | SQL | Python | Power BI | Excel
+
+[LinkedIn](https://www.linkedin.com/in/rachel-konadu-gyamfi) | [GitHub](https://github.com/cyber-rachel)l
