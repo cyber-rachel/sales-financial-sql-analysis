@@ -86,8 +86,11 @@ Monthly performance is analyzed using:
 - Profit
 - Units sold
 
-Year-over-year revenue growth is calculated using the `LAG()` window function.
+### Year-over-Year Revenue Analysis
 
+The analysis uses a Common Table Expression (CTE) and the `LAG()` window function to compare annual revenue with the previous year and calculate revenue growth.
+
+![Year-over-Year Revenue Analysis](images/yearly-revenue-analysis.png)
 ### Product Analysis
 
 Product economics are evaluated using:
