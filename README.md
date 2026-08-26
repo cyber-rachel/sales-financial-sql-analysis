@@ -17,7 +17,7 @@ The analysis answers questions such as:
 - Does order priority correspond to different shipping times?
 
 ## Database Schema
-
+![Sales Financial Database Schema](images/database_schema.png)
 The database contains five related tables:
 
 - `Products`
