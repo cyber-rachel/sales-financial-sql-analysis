@@ -184,25 +184,28 @@ sales-financial-sql-analysis/
 ```
 
 ## How to Run
-1. Install MySQL
 
-Use MySQL Server and MySQL Workbench or another MySQL-compatible client.
+### 1. Install MySQL
 
-2. Prepare the CSV files
+Install MySQL Server and MySQL Workbench, or use another MySQL-compatible client.
 
-Place the required CSV files in a MySQL-accessible directory.
+### 2. Prepare the Data
 
-The SQL script currently references:
-C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Individual Assignment/Data Folder/
+Place the required CSV files in a directory accessible to your MySQL installation.
 
-If your files are stored elsewhere, update the LOAD DATA INFILE paths in the SQL script.
+Update the file paths in `sales_financial_analysis.sql` to match the location of your CSV files.
 
-3. Run the SQL script
+The script uses `LOAD DATA INFILE` to import the source data into MySQL.
+
+> **Note:** File paths are environment-specific. The SQL script does not rely on the author's local directory structure.
+
+### 3. Run the SQL Script
 
 Open:
-sales_financial_analysis.sql
 
-and execute the script from the beginning.
+```text
+
+sales_financial_analysis.sql
 
 The script will:
 
@@ -212,7 +215,7 @@ Load the CSV data
 Validate the data
 Create foreign-key relationships
 Execute the analytical queries
-
+```
 Author
 Rachel Konadu Gyamfi
 
